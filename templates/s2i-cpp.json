@@ -6,7 +6,7 @@
     "annotations": {
       "description": "Application template for C++ applications",
       "tags": "quickstart,cpp,c",
-      "iconClass": "icon-dotnet"
+      "iconClass": "icon-shadowman"
     }
   },
   "objects": [
